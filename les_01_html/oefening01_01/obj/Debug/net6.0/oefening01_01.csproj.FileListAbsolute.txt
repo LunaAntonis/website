@@ -1,0 +1,14 @@
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\bin\Debug\net6.0\oefening01_01.exe
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\bin\Debug\net6.0\oefening01_01.deps.json
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\bin\Debug\net6.0\oefening01_01.runtimeconfig.json
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\bin\Debug\net6.0\oefening01_01.dll
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\bin\Debug\net6.0\oefening01_01.pdb
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\obj\Debug\net6.0\oefening01_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\obj\Debug\net6.0\oefening01_01.AssemblyInfoInputs.cache
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\obj\Debug\net6.0\oefening01_01.AssemblyInfo.cs
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\obj\Debug\net6.0\oefening01_01.csproj.CoreCompileInputs.cache
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\obj\Debug\net6.0\oefening01_01.dll
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\obj\Debug\net6.0\refint\oefening01_01.dll
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\obj\Debug\net6.0\oefening01_01.pdb
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\obj\Debug\net6.0\oefening01_01.genruntimeconfig.cache
+C:\Users\lunaa\OneDrive\Documenten\programmeren_23-24\programming essentials\les 1\oefening01_01\obj\Debug\net6.0\ref\oefening01_01.dll
